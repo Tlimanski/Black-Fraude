@@ -1,1 +1,1 @@
-# Black-Fraude
+Black Fraude: golpes comuns na Black Friday.
